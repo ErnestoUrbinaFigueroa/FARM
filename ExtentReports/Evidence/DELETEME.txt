@@ -1,0 +1,3 @@
+# Eliminar antes de ejecutar los test.
+# Se agrega este archivo sólo para subir la estructura
+# de carpetas a github.

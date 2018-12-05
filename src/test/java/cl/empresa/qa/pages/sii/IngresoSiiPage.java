@@ -1,4 +1,4 @@
-package cl.empresa.pages.Sii;
+package cl.empresa.qa.pages.sii;
 
 import org.openqa.selenium.By;
 
