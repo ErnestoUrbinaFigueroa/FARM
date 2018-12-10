@@ -16,11 +16,11 @@ public class FiguraGeometrica {
 	}
 
 	public String obtenerArea() {
-		return "El area es: " + this.area;
+		return "El area de la figura es: " + this.area;
 	}
 
 	public String obtenerPerimetro() {
-		return "El perimetro es: " + this.perimetro;
+		return "El perimetro de la figura es: " + this.perimetro;
 	}
 
 	public void setArea(double area) {
@@ -29,6 +29,14 @@ public class FiguraGeometrica {
 
 	public void setPerimetro(double perimetro) {
 		this.perimetro = perimetro;
+	}
+
+	public double getArea() {
+		return this.area;
+	}
+
+	public double getPerimetro() {
+		return this.perimetro;
 	}
 
 }
